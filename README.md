@@ -1,3 +1,3 @@
 # treinar
 GPI - treinar
-#google.com
+This site was built using [Google Pages] (www.google.com.br)
